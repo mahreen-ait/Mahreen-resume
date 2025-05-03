@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mahreen Wasim - Visual Designer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="resume-container">
+    <header class="header">
+      <img src="images/Mahreen.jpg" alt="Mahreen Wasim" class="profile-img"/>
+      <div class="intro">
+        <h1>Mahreen <span>Wasim</span></h1>
+        <h2>Visual Communication Designer & Micro Influencer</h2>
+        <p>Hello! I’m a Visual Communication Designer, who brings innovation and strategy, specializing in Graphic Design & Content Creation...</p>
+        <div class="contact">
+          <p>📞 +91 9555972800</p>
+          <p>📧 mahreen.wasim@nift.ac.in</p>
+          <p>🔗 <a href="https://www.linkedin.com/in/mahreenwasim">LinkedIn</a> | 
+            <a href="https://www.behance.net/mahreenwasim">Behance</a> | 
+            <a href="https://www.instagram.com/mahreenwasim">Instagram</a></p>
+        </div>
+      </div>
+    </header>
+
+    <section class="section two-col">
+      <div class="column">
+        <h3>Achievements</h3>
+        <ul>
+          <li><strong>Brand Collaboration & UGC Creator (2023 – Present)</strong><br/>
+            Worked with 50+ fashion & lifestyle brands.</li>
+          <li><strong>Creative Business Owner</strong><br/>
+            Selling wallpapers and stickers on Etsy.</li>
+        </ul>
+
+        <h3>Work Experience</h3>
+        <ul>
+          <li><strong>UI/UX Design:</strong> Pizza Delivery App (Personal), Archery App (Team)</li>
+          <li><strong>Micro Influencer & Content Creator:</strong> Brands: Myntra, Newme, GIVA, Nykaa, etc.</li>
+        </ul>
+
+        <h3>Languages</h3>
+        <p>English, Hindi, Urdu, Arabic, French</p>
+      </div>
+
+      <div class="column">
+        <h3>Education</h3>
+        <ul>
+          <li>2026 – Expected Graduation</li>
+          <li>2022 – B.Des in Fashion Communication, NIFT Bhopal</li>
+          <li>2021 – Secondary School</li>
+          <li>2019 – Girls’ High School & College, Prayagraj</li>
+        </ul>
+
+        <h3>Technical Skills</h3>
+        <ul>
+          <li>Graphic & Communication Design</li>
+          <li>Branding & Visual Identity</li>
+          <li>UI/UX Design, Motion Graphics</li>
+          <li>Illustration, Social Media, Photography</li>
+        </ul>
+
+        <h3>Software Skills</h3>
+        <ul>
+          <li>Adobe Photoshop, Illustrator, InDesign, XD</li>
+          <li>Figma, Canva, CapCut</li>
+        </ul>
+
+        <h3>Soft Skills</h3>
+        <ul>
+          <li>Creativity, Adaptability, Time Management</li>
+          <li>Collaboration, Persuasion & Influencing</li>
+        </ul>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
